@@ -5,7 +5,7 @@ nav_order: 7
 permalink: /docs/ack
 ---
 
-Acknowledgements: 
+# Acknowledgements
 - [Dr. Dustin Richmond](https://www.dustinrichmond.com/) for being an insightful and supportive advisor, and encouraging me to have a holistic approach to model hardware degradation.
 - [Tyler Sheaves](https://www.tylersheaves.com/) for sharing his insights in the ideation of this page, and for being an excellent labmate and mentor.
 - [Dr. Souvik Mahapatra](https://www.ee.iitb.ac.in/web/people/souvik-mahapatra/) for a meeting at IIT-B in December 2024 that introduced me to TCAD and degradation modeling.
