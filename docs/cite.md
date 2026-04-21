@@ -17,7 +17,6 @@ This resource was built to give hardware security and semiconductor reliability 
 {: .note }
 > If others from the community contributed corrections or paper suggestions, they will be acknowledged here by name with permission. If you submitted feedback and would like to be credited, please [Email me](mailto:abedekar@ucsc.edu).
 
-
 ## Get in touch
 {: .highlight }
 > If you found this useful, have a correction, or want to discuss research directions in BTI, I would genuinely like to hear from you.
