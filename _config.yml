@@ -1,0 +1,13 @@
+title: "Intro to BTI"
+description: "A walkthrough on what BTI is and why it is crucial for hardware security and semiconductor reliability research."
+baseurl:"/intro2bti"
+url:"https://adityabedekar17.github.io/"
+theme: just-the-docs
+color_scheme: nil
+search_enabled: true
+nav_sort: order
+
+plugins:
+  - jekyll-seo-tag
+footer_content: "Built by <a href='/intro2bti/docs/cite'>Aditya Ashish Bedekar</a> &middot; Advised by   
+<a href='https://www.dustinrichmond.com/'>Dr.Dustin Richmond</a> &middot; <a href='/intro2bti/docs/cite'>Cite this resource</a> &middot; Last updated: April 2026"
