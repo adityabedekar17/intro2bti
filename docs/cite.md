@@ -6,7 +6,7 @@ permalink: /docs/cite
 ---
 
 # Cite + Connect
-{: .no_toc }
+
 
 # About the author
 
@@ -15,12 +15,12 @@ permalink: /docs/cite
 This resource was built to give hardware security and semiconductor reliability researchers a single, accessible entry point to BTI, which did not exist, and would immensly help the research community. 
 
 {: .note }
-If others from the community contributed corrections or paper suggestions, they will be acknowledged here by name with permission. If you submitted feedback and would like to be credited, please [Email me](mailto:abedekar@ucsc.edu).
+> If others from the community contributed corrections or paper suggestions, they will be acknowledged here by name with permission. If you submitted feedback and would like to be credited, please [Email me](mailto:abedekar@ucsc.edu).
 
 
 ## Get in touch
 {: .highlight }
-If you found this useful, have a correction, or want to discuss research directions in BTI, I would genuinely like to hear from you.
+> If you found this useful, have a correction, or want to discuss research directions in BTI, I would genuinely like to hear from you.
 
 | | |
 |:--|:--|
