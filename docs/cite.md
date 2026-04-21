@@ -5,7 +5,7 @@ nav_order: 8
 permalink: /docs/cite
 ---
 
-# Cite + Connect
+# Cite & Connect
 
 
 # About the author
@@ -41,7 +41,7 @@ If this resource was useful in your research or teaching, please cite it. All fo
 ```bibtex
 @misc{A.A. Bedekar 2026,
   author       = {Bedekar, Aditya Ashish},
-  title        = {Introduction to {BTI}  A resourcefor Hardware Security
+  title        = {Introduction to {BTI}  A resource for Hardware Security
                   and Semiconductor Reliability Researchers},
   year         = {2026},
   howpublished = {\url{https://adityabedekar17.github.io/intro2bti}},
