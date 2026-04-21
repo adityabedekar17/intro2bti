@@ -6,7 +6,7 @@ description: "An introduction to BTI for hardware security and semiconductor rel
 permalink: /
 ---
 
-# BTI Explained
+# Introduction to BTI
 {: .fs-9 .fw-700 }
 A helpful resource for hardware security and semiconductor reliability researchers.
 {: .fs-5 .fw-300 }
