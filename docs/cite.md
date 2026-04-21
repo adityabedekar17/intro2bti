@@ -8,7 +8,7 @@ permalink: /docs/cite
 # Cite & Connect
 
 
-# About the author
+## About the author
 
 **Aditya Ashish Bedekar** is a PhD student at University of California Santa Cruz in the [Hardware Systems Collective](https://hsc.ucsc.edu/), advised by [Dr. Dustin Richmond](https://www.dustinrichmond.com/). His research focuses on physics-based degradation modeling for advanced process nodes, and research interests lie in hardware reliability and hardware security.
 
@@ -57,7 +57,7 @@ https://adityabedekar17.github.io/intro2bti
 
 
 
-## Use in courses
+##  Use in courses
 
 You are welcome to link to or share this resource in course materials, syllabi, or reading lists without asking for permission. A heads-up email is appreciated but not required.
 
