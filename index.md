@@ -16,4 +16,4 @@ A helpful resource for hardware security and semiconductor reliability researche
 {: .btn .fs-5 .mb-4 .mb-md-0 }
 {: .highlight }
 
-v1.0  ·  Est. reading time: ~20 min  ·  Last updated: April 2026  ·  By Aditya Ashish Bedekar  ·  Advised by Dr.Dustin Richmond
+ Last updated: April 2026  ·  By Aditya Ashish Bedekar  ·  Advised by Dr. Dustin Richmond
